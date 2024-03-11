@@ -15,4 +15,3 @@ class AddCommand(Command):
             addends[i] = int(addends[i])
         
         print(add(addends[0], addends[1]))
-      

@@ -7,7 +7,7 @@ from app.plugins.add import AddCommand
 from app.plugins.subtract import SubtractCommand
 from app.plugins.multiply import MultiplyCommand
 from app.plugins.divide import DivideCommand
-        
+
 def test_add_command(capfd, monkeypatch):
     """Test the execution of the AddCommand."""
     inputs = iter(['5 7'])

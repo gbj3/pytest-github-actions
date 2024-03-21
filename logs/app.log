@@ -41,3 +41,45 @@
 2024-03-21 14:56:29,960 - root - INFO - Application started. Type 'exit' to exit.
 2024-03-21 14:56:57,053 - root - INFO - Application interrupted and exiting gracefully.
 2024-03-21 14:56:57,055 - root - INFO - Application shutdown.
+2024-03-21 15:09:18,288 - root - INFO - Logging configured.
+2024-03-21 15:09:19,608 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-21 15:09:24,451 - root - INFO - The directory './data' is created
+2024-03-21 15:09:24,458 - root - INFO - States saved to CSV at './data/states.csv'.
+2024-03-21 15:09:24,458 - root - INFO - the relative path  to save my file is ./data/gpt_states.csv
+2024-03-21 15:09:24,459 - root - INFO - the absolute path  to save my file is /mnt/c/NJIT/pytest-github-actions/data/gpt_states.csv
+2024-03-21 15:09:24,461 - root - INFO - Application shutdown.
+2024-03-21 15:09:42,570 - root - INFO - Logging configured.
+2024-03-21 15:09:43,311 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-21 15:09:51,024 - root - INFO - List example: ['apple', 'banana', 'cherry']
+2024-03-21 15:09:51,024 - root - INFO - I pick an apple
+2024-03-21 15:09:51,025 - root - INFO - List after adding an item: ['apple', 'banana', 'cherry', 'date']
+2024-03-21 15:09:51,026 - root - INFO - Tuple example: (1, 2, 3, 4)
+2024-03-21 15:09:51,026 - root - INFO - Set example: {1, 2, 3, 4}
+2024-03-21 15:09:51,027 - root - INFO - whats different {1}
+2024-03-21 15:09:51,028 - root - INFO - Set after adding an item: {1, 2, 3, 4, 5}
+2024-03-21 15:09:51,029 - root - INFO - Dictionary example: {'CA': 'California', 'NJ': 'New Jersey', 'TX': 'Texas', 'FL': 'Florida', 'IL': 'Illinois'}
+2024-03-21 15:09:51,029 - root - INFO - Dictionary after adding a state: {'CA': 'California', 'NJ': 'New Jersey', 'TX': 'Texas', 'FL': 'Florida', 'IL': 'Illinois', 'NY': 'New York'}
+2024-03-21 15:09:51,030 - root - INFO - State Abbreviation: CA for: California
+2024-03-21 15:09:51,032 - root - INFO - State Abbreviation: NJ for: New Jersey
+2024-03-21 15:09:51,035 - root - INFO - State Abbreviation: TX for: Texas
+2024-03-21 15:09:51,035 - root - INFO - State Abbreviation: FL for: Florida
+2024-03-21 15:09:51,036 - root - INFO - State Abbreviation: IL for: Illinois
+2024-03-21 15:09:51,037 - root - INFO - State Abbreviation: NY for: New York
+2024-03-21 15:09:51,038 - root - INFO - State: CA
+2024-03-21 15:09:51,039 - root - INFO -     Capital: Sacramento
+2024-03-21 15:09:51,040 - root - INFO -     Population: 39538223
+2024-03-21 15:09:51,041 - root - INFO -     Great: No
+2024-03-21 15:09:51,042 - root - INFO - State: TX
+2024-03-21 15:09:51,044 - root - INFO -     Capital: Austin
+2024-03-21 15:09:51,045 - root - INFO -     Population: 29145505
+2024-03-21 15:09:51,046 - root - INFO -     Great: Yes
+2024-03-21 15:09:51,047 - root - INFO - State: NJ
+2024-03-21 15:09:51,048 - root - INFO -     Capital: Trenton
+2024-03-21 15:09:51,049 - root - INFO -     Population: 50
+2024-03-21 15:09:51,050 - root - INFO -     Great: Yes
+2024-03-21 15:09:51,051 - root - INFO -     Good hot dogs: yes
+2024-03-21 15:09:51,052 - root - INFO -     Where: Rutts hutt
+2024-03-21 15:10:20,348 - root - INFO - States saved to CSV at './data/states.csv'.
+2024-03-21 15:10:20,348 - root - INFO - the relative path  to save my file is ./data/gpt_states.csv
+2024-03-21 15:10:20,349 - root - INFO - the absolute path  to save my file is /mnt/c/NJIT/pytest-github-actions/data/gpt_states.csv
+2024-03-21 15:10:20,350 - root - INFO - Application shutdown.

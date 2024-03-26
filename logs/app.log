@@ -377,3 +377,125 @@
 2024-03-25 23:17:35,124 - root - INFO - Application started. Type 'exit' to exit.
 2024-03-25 23:19:19,501 - root - INFO - Application exit.
 2024-03-25 23:19:19,502 - root - INFO - Application shutdown.
+2024-03-26 14:46:04,785 - root - INFO - Logging configured.
+2024-03-26 14:46:32,887 - root - INFO - Logging configured.
+2024-03-26 14:46:35,971 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-26 14:46:39,961 - root - INFO - Application exit.
+2024-03-26 14:46:39,962 - root - INFO - Application shutdown.
+2024-03-26 14:47:05,288 - root - INFO - Logging configured.
+2024-03-26 14:47:05,838 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-26 14:47:31,480 - root - INFO - Addends 4 and 5 were added to a sum of 9
+2024-03-26 14:47:47,260 - root - INFO - Subtractants 9 and 4 were subtracted to a difference of 5
+2024-03-26 14:47:55,118 - root - INFO - Subtractants 4 and 9 were subtracted to a difference of -5
+2024-03-26 14:48:03,048 - root - INFO - Multiplicands 5 and 6 were mutiplied to a product of 30
+2024-03-26 14:48:11,489 - root - INFO - Dividends 9 and 4 were divided to a quotient of 2.25
+2024-03-26 14:48:17,055 - root - INFO - Dividends 9 and 0 were divided to a quotient of Cannot divide by zero
+2024-03-26 14:49:06,529 - root - INFO - the relative path  to save my file is ./data/operation_history.csv
+2024-03-26 14:49:06,529 - root - INFO - the absolute path  to save my file is /mnt/c/NJIT/pytest-github-actions/data/operation_history.csv
+2024-03-26 14:49:06,544 - root - INFO - Record 0: add: 3, 4
+2024-03-26 14:49:06,545 - root - INFO - Index: 0,     Operation: add
+2024-03-26 14:49:06,546 - root - INFO - Index: 0,     Num1: 3
+2024-03-26 14:49:06,546 - root - INFO - Index: 0,     Num2: 4
+2024-03-26 14:49:06,547 - root - INFO - Sum of 3 and 4: 7
+2024-03-26 14:49:06,548 - root - INFO - Record 1: add: 6, 7
+2024-03-26 14:49:06,549 - root - INFO - Index: 1,     Operation: add
+2024-03-26 14:49:06,550 - root - INFO - Index: 1,     Num1: 6
+2024-03-26 14:49:06,550 - root - INFO - Index: 1,     Num2: 7
+2024-03-26 14:49:06,551 - root - INFO - Sum of 6 and 7: 13
+2024-03-26 14:49:06,552 - root - INFO - Record 2: add: 5, 6
+2024-03-26 14:49:06,553 - root - INFO - Index: 2,     Operation: add
+2024-03-26 14:49:06,554 - root - INFO - Index: 2,     Num1: 5
+2024-03-26 14:49:06,555 - root - INFO - Index: 2,     Num2: 6
+2024-03-26 14:49:06,556 - root - INFO - Sum of 5 and 6: 11
+2024-03-26 14:49:06,556 - root - INFO - Record 3: add: 7, 8
+2024-03-26 14:49:06,557 - root - INFO - Index: 3,     Operation: add
+2024-03-26 14:49:06,558 - root - INFO - Index: 3,     Num1: 7
+2024-03-26 14:49:06,558 - root - INFO - Index: 3,     Num2: 8
+2024-03-26 14:49:06,559 - root - INFO - Sum of 7 and 8: 15
+2024-03-26 14:49:06,559 - root - INFO - Record 4: add: 7, 6
+2024-03-26 14:49:06,560 - root - INFO - Index: 4,     Operation: add
+2024-03-26 14:49:06,561 - root - INFO - Index: 4,     Num1: 7
+2024-03-26 14:49:06,561 - root - INFO - Index: 4,     Num2: 6
+2024-03-26 14:49:06,562 - root - INFO - Sum of 7 and 6: 13
+2024-03-26 14:49:06,562 - root - INFO - Record 5: divide: 6, 6
+2024-03-26 14:49:06,563 - root - INFO - Index: 5,     Operation: divide
+2024-03-26 14:49:06,564 - root - INFO - Index: 5,     Num1: 6
+2024-03-26 14:49:06,564 - root - INFO - Index: 5,     Num2: 6
+2024-03-26 14:49:06,565 - root - INFO - Quotient of 6 and 6: 1.0
+2024-03-26 14:49:06,566 - root - INFO - Record 6: divide: 6, 0
+2024-03-26 14:49:06,567 - root - INFO - Index: 6,     Operation: divide
+2024-03-26 14:49:06,568 - root - INFO - Index: 6,     Num1: 6
+2024-03-26 14:49:06,569 - root - INFO - Index: 6,     Num2: 0
+2024-03-26 14:49:06,570 - root - INFO - Cannot divide by 0
+2024-03-26 14:49:06,571 - root - INFO - Record 7: multiply: 5, 6
+2024-03-26 14:49:06,572 - root - INFO - Index: 7,     Operation: multiply
+2024-03-26 14:49:06,573 - root - INFO - Index: 7,     Num1: 5
+2024-03-26 14:49:06,574 - root - INFO - Index: 7,     Num2: 6
+2024-03-26 14:49:06,575 - root - INFO - Product of 5 and 6: 30
+2024-03-26 14:49:06,576 - root - INFO - Record 8: add: 4, 5
+2024-03-26 14:49:06,577 - root - INFO - Index: 8,     Operation: add
+2024-03-26 14:49:06,577 - root - INFO - Index: 8,     Num1: 4
+2024-03-26 14:49:06,578 - root - INFO - Index: 8,     Num2: 5
+2024-03-26 14:49:06,578 - root - INFO - Sum of 4 and 5: 9
+2024-03-26 14:49:06,579 - root - INFO - Record 9: add: 9, 4
+2024-03-26 14:49:06,580 - root - INFO - Index: 9,     Operation: add
+2024-03-26 14:49:06,581 - root - INFO - Index: 9,     Num1: 9
+2024-03-26 14:49:06,582 - root - INFO - Index: 9,     Num2: 4
+2024-03-26 14:49:06,582 - root - INFO - Sum of 9 and 4: 13
+2024-03-26 14:49:06,583 - root - INFO - Record 10: add: 4, 9
+2024-03-26 14:49:06,584 - root - INFO - Index: 10,     Operation: add
+2024-03-26 14:49:06,585 - root - INFO - Index: 10,     Num1: 4
+2024-03-26 14:49:06,586 - root - INFO - Index: 10,     Num2: 9
+2024-03-26 14:49:06,587 - root - INFO - Sum of 4 and 9: 13
+2024-03-26 14:49:06,588 - root - INFO - Record 11: multiply: 5, 6
+2024-03-26 14:49:06,589 - root - INFO - Index: 11,     Operation: multiply
+2024-03-26 14:49:06,589 - root - INFO - Index: 11,     Num1: 5
+2024-03-26 14:49:06,590 - root - INFO - Index: 11,     Num2: 6
+2024-03-26 14:49:06,591 - root - INFO - Product of 5 and 6: 30
+2024-03-26 14:49:06,592 - root - INFO - Record 12: divide: 9, 4
+2024-03-26 14:49:06,592 - root - INFO - Index: 12,     Operation: divide
+2024-03-26 14:49:06,593 - root - INFO - Index: 12,     Num1: 9
+2024-03-26 14:49:06,594 - root - INFO - Index: 12,     Num2: 4
+2024-03-26 14:49:06,594 - root - INFO - Quotient of 9 and 4: 2.25
+2024-03-26 14:49:06,595 - root - INFO - Record 13: divide: 9, 0
+2024-03-26 14:49:06,596 - root - INFO - Index: 13,     Operation: divide
+2024-03-26 14:49:06,597 - root - INFO - Index: 13,     Num1: 9
+2024-03-26 14:49:06,597 - root - INFO - Index: 13,     Num2: 0
+2024-03-26 14:49:06,598 - root - INFO - Cannot divide by 0
+2024-03-26 14:49:34,989 - root - INFO - the relative path  to save my file is ./data/operation_history.csv
+2024-03-26 14:49:34,989 - root - INFO - the absolute path  to save my file is /mnt/c/NJIT/pytest-github-actions/data/operation_history.csv
+2024-03-26 14:49:46,532 - root - INFO - List example: ['apple', 'banana', 'cherry']
+2024-03-26 14:49:46,533 - root - INFO - I pick an apple
+2024-03-26 14:49:46,533 - root - INFO - List after adding an item: ['apple', 'banana', 'cherry', 'date']
+2024-03-26 14:49:46,534 - root - INFO - Tuple example: (1, 2, 3, 4)
+2024-03-26 14:49:46,534 - root - INFO - Set example: {1, 2, 3, 4}
+2024-03-26 14:49:46,535 - root - INFO - whats different {1}
+2024-03-26 14:49:46,535 - root - INFO - Set after adding an item: {1, 2, 3, 4, 5}
+2024-03-26 14:49:46,535 - root - INFO - Dictionary example: {'CA': 'California', 'NJ': 'New Jersey', 'TX': 'Texas', 'FL': 'Florida', 'IL': 'Illinois'}
+2024-03-26 14:49:46,536 - root - INFO - Dictionary after adding a state: {'CA': 'California', 'NJ': 'New Jersey', 'TX': 'Texas', 'FL': 'Florida', 'IL': 'Illinois', 'NY': 'New York'}
+2024-03-26 14:49:46,536 - root - INFO - State Abbreviation: CA for: California
+2024-03-26 14:49:46,536 - root - INFO - State Abbreviation: NJ for: New Jersey
+2024-03-26 14:49:46,537 - root - INFO - State Abbreviation: TX for: Texas
+2024-03-26 14:49:46,537 - root - INFO - State Abbreviation: FL for: Florida
+2024-03-26 14:49:46,538 - root - INFO - State Abbreviation: IL for: Illinois
+2024-03-26 14:49:46,538 - root - INFO - State Abbreviation: NY for: New York
+2024-03-26 14:49:46,538 - root - INFO - State: CA
+2024-03-26 14:49:46,539 - root - INFO -     Capital: Sacramento
+2024-03-26 14:49:46,540 - root - INFO -     Population: 39538223
+2024-03-26 14:49:46,541 - root - INFO -     Great: No
+2024-03-26 14:49:46,541 - root - INFO - State: TX
+2024-03-26 14:49:46,542 - root - INFO -     Capital: Austin
+2024-03-26 14:49:46,543 - root - INFO -     Population: 29145505
+2024-03-26 14:49:46,543 - root - INFO -     Great: Yes
+2024-03-26 14:49:46,544 - root - INFO - State: NJ
+2024-03-26 14:49:46,545 - root - INFO -     Capital: Trenton
+2024-03-26 14:49:46,546 - root - INFO -     Population: 50
+2024-03-26 14:49:46,547 - root - INFO -     Great: Yes
+2024-03-26 14:49:46,548 - root - INFO -     Good hot dogs: yes
+2024-03-26 14:49:46,549 - root - INFO -     Where: Rutts hutt
+2024-03-26 14:49:51,479 - root - INFO - Application exit.
+2024-03-26 14:49:51,479 - root - INFO - Application shutdown.
+2024-03-26 14:51:02,290 - root - INFO - Logging configured.
+2024-03-26 14:51:02,856 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-26 14:51:04,159 - root - INFO - Application interrupted and exiting gracefully.
+2024-03-26 14:51:04,159 - root - INFO - Application shutdown.

@@ -2,6 +2,7 @@
 
 import pytest
 from app import App
+import pandas as pd
 # from app.plugins.greet import GreetCommand
 from app.plugins.add import AddCommand
 from app.plugins.subtract import SubtractCommand
@@ -10,6 +11,7 @@ from app.plugins.divide import DivideCommand
 from app.plugins.csv import CsvCommand
 from app.plugins.menu import MenuCommand
 from app.plugins.greet import GreetCommand
+
 
 def test_add_command(capfd, monkeypatch):
     """Test the execution of the AddCommand."""

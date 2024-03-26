@@ -9,9 +9,17 @@ def divide(a: Decimal, b: Decimal) -> Decimal:
 
 class DivideCommand(Command):
     def execute(self):
-        dividends = input('Enter values to be divided: ').split()
-        for i in range(0, len(dividends)):
-            dividends[i] = int(dividends[i])
-        logging.info('Dividends {dividends[0]} and {dividends[1]} were divided to a quotient of ' + str(divide(dividends[0], dividends[1])))
-        
-        print(divide(dividends[0], dividends[1]))
+        try:
+            dividends = input('Enter values to be divided: ').split()
+            for i in range(0, len(dividends)):
+                dividends[i] = int(dividends[i])
+            
+            logging.info(f'Dividends {dividends[0]} and {dividends[1]} were divided to a quotient of ' + str(divide(dividends[0], dividends[1])))
+            print(divide(dividends[0], dividends[1]))
+
+            file = open("./data/operation_history.csv", "a")
+            file.write(f"divide,{dividends[0]},{dividends[1]}\n")
+            file.close()
+        except:
+            print(f"Error dividing")
+            logging.info(f"Could not divide")

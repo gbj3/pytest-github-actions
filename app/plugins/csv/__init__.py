@@ -2,13 +2,12 @@ import logging
 import os
 from app.commands import Command
 import pandas as pd
+from app.plugins.add import AddCommand
 
 
 class CsvCommand(Command):
     def execute(self):
         
-        # Existing code for demonstrating data structures and saving CSV...
-
         # Ensure the 'data' directory exists and is writable
         data_dir = './data'
         if not os.path.exists(data_dir):
@@ -18,39 +17,53 @@ class CsvCommand(Command):
         elif not os.access(data_dir, os.W_OK):
             logging.error(f"The directory '{data_dir}' is not writable.")
             return
-        
-        # Convert dictionary to DataFrame and save to CSV
-        states_abbreviations = {
-            'CA': 'California',
-            'NJ': 'New Jersey',
-            'TX': 'Texas',
-            'FL': 'Florida',
-            'IL': 'Illinois',
-            'NY': 'New York'  # Newly added state
-        }
-        df_states = pd.DataFrame(list(states_abbreviations.items()), columns=['Abbreviation', 'State'])
-        csv_file_path = os.path.join(data_dir, 'states.csv')
-        df_states.to_csv(csv_file_path, index=False)
-        
-        logging.info(f"States saved to CSV at '{csv_file_path}'.")
-        # This is creating the path for saving the file.
-        csv_file_path = os.path.join(data_dir, 'gpt_states.csv')
+
+        csv_file_path = os.path.join(data_dir, 'operation_history.csv')
         logging.info(f'the relative path  to save my file is {csv_file_path}')
         # Read the CSV file back into a DataFrame
         absolute_path = os.path.abspath(csv_file_path)
         logging.info(f'the absolute path  to save my file is {absolute_path}')
-        df_read_states = pd.read_csv(csv_file_path)
+        df_read_operations = pd.read_csv(csv_file_path)
         
-        # Print and log each state nicely
-        print("States from CSV:")
-        for index, row in df_read_states.iterrows():
-            # First, print and log the complete record for the state
-            state_info = f"{row['State Abbreviation']}: {row['State Name']}"
-            print(f"Record {index}: {state_info}")
-            logging.info(f"Record {index}: {state_info}")
-            
-            # Then, iterate through each field in the row to print and log
-            for field in row.index:
-                field_info = f"    {field}: {row[field]}"
-                print(field_info)
-                logging.info(f"Index: {index}, {field_info}")
+        try:
+            # Print and log each operation nicely
+            print("Operations from CSV:")
+            for index, row in df_read_operations.iterrows():
+                # First, print and log the complete record for the operation
+                operation_info = f"{row['Operation']}: {row['Num1']}, {row['Num2']}"
+                print(f"Record {index}: {operation_info}")
+                logging.info(f"Record {index}: {operation_info}")
+                
+                # Then, iterate through each field in the row to print and log
+                for field in row.index:
+                    field_info = f"    {field}: {row[field]}"
+                    print(field_info)
+                    logging.info(f"Index: {index}, {field_info}")
+                
+                # Calculate the result of Num1 and Num2
+                match row['Operation']:
+                    case 'add':
+                        result = row['Num1'] + row['Num2']
+                        print(f"Sum of Num1 and Num2: {result}")
+                        logging.info(f"Sum of {row['Num1']} and {row['Num2']}: {result}")
+                    case 'subtract':
+                        result = row['Num1'] - row['Num2']
+                        print(f"Difference of Num1 and Num2: {result}")
+                        logging.info(f"Difference of {row['Num1']} and {row['Num2']}: {result}")
+                    case 'multiply':
+                        result = row['Num1'] * row['Num2']
+                        print(f"Product of Num1 and Num2: {result}")
+                        logging.info(f"Product of {row['Num1']} and {row['Num2']}: {result}")
+                    case 'divide':
+                        if row['Num2'] == 0:
+                            print(f"Cannot divide by 0")
+                            logging.info(f"Cannot divide by 0")
+                        else:
+                            result = row['Num1'] / row['Num2']
+                            print(f"Quotient of Num1 and Num2: {result}")
+                            logging.info(f"Quotient of {row['Num1']} and {row['Num2']}: {result}")
+
+        except:
+            print("There are no operations in the history")
+            logging.info(f"No history of operations")
+

@@ -11,9 +11,17 @@ def add(a: Decimal, b: Decimal) -> Decimal:
 
 class AddCommand(Command):
     def execute(self):
-        addends = input('Enter values to be added: ').split()
-        for i in range(0, len(addends)):
-            addends[i] = int(addends[i])
-        logging.info('Addends {addends[0]} and {addends[1]} were added to a sum of ' + str(add(addends[0], addends[1])))
+        try:
+            addend = input('Enter values to be added: ').split()
+            for i in range(0, len(addend)):
+                addend[i] = int(addend[i])
+            logging.info(f"Addends {addend[0]} and {addend[1]} were added to a sum of " + str(add(addend[0], addend[1])))
+
+            file = open("./data/operation_history.csv", "a")
+            file.write(f"add,{addend[0]},{addend[1]}\n")
+            file.close()
         
-        print(add(addends[0], addends[1]))
+            print(add(addend[0], addend[1]))
+        except:
+            print(f"Error adding")
+            logging.info("Adding command error")

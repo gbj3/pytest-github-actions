@@ -11,6 +11,10 @@ class SubtractCommand(Command):
         for i in range(0, len(subtractant)):
             subtractant[i] = int(subtractant[i])
 
-        logging.info('Subtractants {subtractant[0]} and {subtractant[1]} were subtracted to a difference of ' + str(subtract(subtractant[0], subtractant[1])))
+        logging.info(f'Subtractants {subtractant[0]} and {subtractant[1]} were subtracted to a difference of ' + str(subtract(subtractant[0], subtractant[1])))
+
+        file = open("./data/operation_history.csv", "a")
+        file.write(f"add,{subtractant[0]},{subtractant[1]}\n")
+        file.close()
         
         print(subtract(subtractant[0], subtractant[1]))

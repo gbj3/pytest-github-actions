@@ -1,0 +1,379 @@
+2024-03-25 22:37:08,430 - root - INFO - Application exit.
+2024-03-25 22:37:08,431 - root - INFO - Application shutdown.
+2024-03-25 22:37:10,950 - root - INFO - Logging configured.
+2024-03-25 22:37:11,806 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-25 22:37:13,359 - root - INFO - the relative path  to save my file is ./data/operation_history.csv
+2024-03-25 22:37:13,359 - root - INFO - the absolute path  to save my file is /mnt/c/NJIT/pytest-github-actions/data/operation_history.csv
+2024-03-25 22:37:13,365 - root - INFO - Record 0: add: 3, 4
+2024-03-25 22:37:13,367 - root - INFO - Sum of 3 and 4: 7
+2024-03-25 22:37:13,368 - root - INFO - Index: 0,     Operation: add
+2024-03-25 22:37:13,369 - root - INFO - Index: 0,     Num1: 3
+2024-03-25 22:37:13,370 - root - INFO - Index: 0,     Num2: 4
+2024-03-25 22:37:13,371 - root - INFO - Record 1: add: 6, 7
+2024-03-25 22:37:13,373 - root - INFO - Sum of 6 and 7: 13
+2024-03-25 22:37:13,374 - root - INFO - Index: 1,     Operation: add
+2024-03-25 22:37:13,375 - root - INFO - Index: 1,     Num1: 6
+2024-03-25 22:37:13,376 - root - INFO - Index: 1,     Num2: 7
+2024-03-25 22:37:13,377 - root - INFO - Record 2: add: 5, 6
+2024-03-25 22:37:13,378 - root - INFO - Sum of 5 and 6: 11
+2024-03-25 22:37:13,380 - root - INFO - Index: 2,     Operation: add
+2024-03-25 22:37:13,381 - root - INFO - Index: 2,     Num1: 5
+2024-03-25 22:37:13,382 - root - INFO - Index: 2,     Num2: 6
+2024-03-25 22:37:13,383 - root - INFO - Record 3: add: 7, 8
+2024-03-25 22:37:13,385 - root - INFO - Sum of 7 and 8: 15
+2024-03-25 22:37:13,386 - root - INFO - Index: 3,     Operation: add
+2024-03-25 22:37:13,387 - root - INFO - Index: 3,     Num1: 7
+2024-03-25 22:37:13,388 - root - INFO - Index: 3,     Num2: 8
+2024-03-25 22:37:13,389 - root - INFO - Record 4: add: 7, 6
+2024-03-25 22:37:13,390 - root - INFO - Sum of 7 and 6: 13
+2024-03-25 22:37:13,391 - root - INFO - Index: 4,     Operation: add
+2024-03-25 22:37:13,392 - root - INFO - Index: 4,     Num1: 7
+2024-03-25 22:37:13,393 - root - INFO - Index: 4,     Num2: 6
+2024-03-25 22:41:11,122 - root - INFO - Application exit.
+2024-03-25 22:41:11,123 - root - INFO - Application shutdown.
+2024-03-25 22:41:12,474 - root - INFO - Logging configured.
+2024-03-25 22:41:13,361 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-25 22:41:14,473 - root - INFO - the relative path  to save my file is ./data/operation_history.csv
+2024-03-25 22:41:14,474 - root - INFO - the absolute path  to save my file is /mnt/c/NJIT/pytest-github-actions/data/operation_history.csv
+2024-03-25 22:41:14,480 - root - INFO - Record 0: add: 3, 4
+2024-03-25 22:41:14,481 - root - INFO - Sum of 3 and 4: 7
+2024-03-25 22:41:14,482 - root - INFO - Index: 0,     Operation: add
+2024-03-25 22:41:14,483 - root - INFO - Index: 0,     Num1: 3
+2024-03-25 22:41:14,484 - root - INFO - Index: 0,     Num2: 4
+2024-03-25 22:41:14,486 - root - INFO - Record 1: add: 6, 7
+2024-03-25 22:41:14,487 - root - INFO - Sum of 6 and 7: 13
+2024-03-25 22:41:14,488 - root - INFO - Index: 1,     Operation: add
+2024-03-25 22:41:14,489 - root - INFO - Index: 1,     Num1: 6
+2024-03-25 22:41:14,490 - root - INFO - Index: 1,     Num2: 7
+2024-03-25 22:41:14,491 - root - INFO - Record 2: add: 5, 6
+2024-03-25 22:41:14,492 - root - INFO - Sum of 5 and 6: 11
+2024-03-25 22:41:14,493 - root - INFO - Index: 2,     Operation: add
+2024-03-25 22:41:14,494 - root - INFO - Index: 2,     Num1: 5
+2024-03-25 22:41:14,495 - root - INFO - Index: 2,     Num2: 6
+2024-03-25 22:41:14,496 - root - INFO - Record 3: add: 7, 8
+2024-03-25 22:41:14,497 - root - INFO - Sum of 7 and 8: 15
+2024-03-25 22:41:14,498 - root - INFO - Index: 3,     Operation: add
+2024-03-25 22:41:14,499 - root - INFO - Index: 3,     Num1: 7
+2024-03-25 22:41:14,500 - root - INFO - Index: 3,     Num2: 8
+2024-03-25 22:41:14,502 - root - INFO - Record 4: add: 7, 6
+2024-03-25 22:41:14,503 - root - INFO - Sum of 7 and 6: 13
+2024-03-25 22:41:14,504 - root - INFO - Index: 4,     Operation: add
+2024-03-25 22:41:14,505 - root - INFO - Index: 4,     Num1: 7
+2024-03-25 22:41:14,506 - root - INFO - Index: 4,     Num2: 6
+2024-03-25 22:44:13,696 - root - INFO - Application exit.
+2024-03-25 22:44:13,697 - root - INFO - Application shutdown.
+2024-03-25 22:44:19,657 - root - INFO - Logging configured.
+2024-03-25 22:44:20,584 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-25 22:44:21,705 - root - INFO - the relative path  to save my file is ./data/operation_history.csv
+2024-03-25 22:44:21,706 - root - INFO - the absolute path  to save my file is /mnt/c/NJIT/pytest-github-actions/data/operation_history.csv
+2024-03-25 22:44:21,712 - root - INFO - Record 0: add: 3, 4
+2024-03-25 22:44:21,713 - root - INFO - Index: 0,     Operation: add
+2024-03-25 22:44:21,714 - root - INFO - Index: 0,     Num1: 3
+2024-03-25 22:44:21,715 - root - INFO - Index: 0,     Num2: 4
+2024-03-25 22:44:21,716 - root - INFO - Sum of 3 and 4: 7
+2024-03-25 22:44:21,718 - root - INFO - Record 1: add: 6, 7
+2024-03-25 22:44:21,719 - root - INFO - Index: 1,     Operation: add
+2024-03-25 22:44:21,720 - root - INFO - Index: 1,     Num1: 6
+2024-03-25 22:44:21,721 - root - INFO - Index: 1,     Num2: 7
+2024-03-25 22:44:21,722 - root - INFO - Sum of 6 and 7: 13
+2024-03-25 22:44:21,723 - root - INFO - Record 2: add: 5, 6
+2024-03-25 22:44:21,724 - root - INFO - Index: 2,     Operation: add
+2024-03-25 22:44:21,726 - root - INFO - Index: 2,     Num1: 5
+2024-03-25 22:44:21,727 - root - INFO - Index: 2,     Num2: 6
+2024-03-25 22:44:21,728 - root - INFO - Sum of 5 and 6: 11
+2024-03-25 22:44:21,729 - root - INFO - Record 3: add: 7, 8
+2024-03-25 22:44:21,730 - root - INFO - Index: 3,     Operation: add
+2024-03-25 22:44:21,731 - root - INFO - Index: 3,     Num1: 7
+2024-03-25 22:44:21,732 - root - INFO - Index: 3,     Num2: 8
+2024-03-25 22:44:21,733 - root - INFO - Sum of 7 and 8: 15
+2024-03-25 22:44:21,735 - root - INFO - Record 4: add: 7, 6
+2024-03-25 22:44:21,736 - root - INFO - Index: 4,     Operation: add
+2024-03-25 22:44:21,737 - root - INFO - Index: 4,     Num1: 7
+2024-03-25 22:44:21,738 - root - INFO - Index: 4,     Num2: 6
+2024-03-25 22:44:21,739 - root - INFO - Sum of 7 and 6: 13
+2024-03-25 22:47:54,080 - root - INFO - Application exit.
+2024-03-25 22:47:54,081 - root - INFO - Application shutdown.
+2024-03-25 22:47:56,410 - root - INFO - Logging configured.
+2024-03-25 22:47:57,174 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-25 22:48:02,151 - root - INFO - Dividends 6 and 6 were divided to a quotient of 1.0
+2024-03-25 22:48:07,546 - root - INFO - the relative path  to save my file is ./data/operation_history.csv
+2024-03-25 22:48:07,546 - root - INFO - the absolute path  to save my file is /mnt/c/NJIT/pytest-github-actions/data/operation_history.csv
+2024-03-25 22:48:07,552 - root - INFO - Record 0: add: 3, 4
+2024-03-25 22:48:07,553 - root - INFO - Index: 0,     Operation: add
+2024-03-25 22:48:07,554 - root - INFO - Index: 0,     Num1: 3
+2024-03-25 22:48:07,556 - root - INFO - Index: 0,     Num2: 4
+2024-03-25 22:48:07,557 - root - INFO - Sum of 3 and 4: 7
+2024-03-25 22:48:07,558 - root - INFO - Record 1: add: 6, 7
+2024-03-25 22:48:07,559 - root - INFO - Index: 1,     Operation: add
+2024-03-25 22:48:07,560 - root - INFO - Index: 1,     Num1: 6
+2024-03-25 22:48:07,562 - root - INFO - Index: 1,     Num2: 7
+2024-03-25 22:48:07,563 - root - INFO - Sum of 6 and 7: 13
+2024-03-25 22:48:07,564 - root - INFO - Record 2: add: 5, 6
+2024-03-25 22:48:07,565 - root - INFO - Index: 2,     Operation: add
+2024-03-25 22:48:07,566 - root - INFO - Index: 2,     Num1: 5
+2024-03-25 22:48:07,567 - root - INFO - Index: 2,     Num2: 6
+2024-03-25 22:48:07,567 - root - INFO - Sum of 5 and 6: 11
+2024-03-25 22:48:07,568 - root - INFO - Record 3: add: 7, 8
+2024-03-25 22:48:07,569 - root - INFO - Index: 3,     Operation: add
+2024-03-25 22:48:07,570 - root - INFO - Index: 3,     Num1: 7
+2024-03-25 22:48:07,571 - root - INFO - Index: 3,     Num2: 8
+2024-03-25 22:48:07,572 - root - INFO - Sum of 7 and 8: 15
+2024-03-25 22:48:07,573 - root - INFO - Record 4: add: 7, 6
+2024-03-25 22:48:07,574 - root - INFO - Index: 4,     Operation: add
+2024-03-25 22:48:07,574 - root - INFO - Index: 4,     Num1: 7
+2024-03-25 22:48:07,575 - root - INFO - Index: 4,     Num2: 6
+2024-03-25 22:48:07,576 - root - INFO - Sum of 7 and 6: 13
+2024-03-25 22:48:07,577 - root - INFO - Record 5: divide: 6, 6
+2024-03-25 22:48:07,578 - root - INFO - Index: 5,     Operation: divide
+2024-03-25 22:48:07,579 - root - INFO - Index: 5,     Num1: 6
+2024-03-25 22:48:07,580 - root - INFO - Index: 5,     Num2: 6
+2024-03-25 22:48:07,580 - root - INFO - Quotient of 6 and 6: 1.0
+2024-03-25 22:48:16,959 - root - INFO - Dividends 6 and 0 were divided to a quotient of Cannot divide by zero
+2024-03-25 22:48:41,108 - root - INFO - the relative path  to save my file is ./data/operation_history.csv
+2024-03-25 22:48:41,109 - root - INFO - the absolute path  to save my file is /mnt/c/NJIT/pytest-github-actions/data/operation_history.csv
+2024-03-25 22:48:41,112 - root - INFO - Record 0: add: 3, 4
+2024-03-25 22:48:41,114 - root - INFO - Index: 0,     Operation: add
+2024-03-25 22:48:41,115 - root - INFO - Index: 0,     Num1: 3
+2024-03-25 22:48:41,116 - root - INFO - Index: 0,     Num2: 4
+2024-03-25 22:48:41,117 - root - INFO - Sum of 3 and 4: 7
+2024-03-25 22:48:41,118 - root - INFO - Record 1: add: 6, 7
+2024-03-25 22:48:41,119 - root - INFO - Index: 1,     Operation: add
+2024-03-25 22:48:41,120 - root - INFO - Index: 1,     Num1: 6
+2024-03-25 22:48:41,121 - root - INFO - Index: 1,     Num2: 7
+2024-03-25 22:48:41,123 - root - INFO - Sum of 6 and 7: 13
+2024-03-25 22:48:41,124 - root - INFO - Record 2: add: 5, 6
+2024-03-25 22:48:41,125 - root - INFO - Index: 2,     Operation: add
+2024-03-25 22:48:41,125 - root - INFO - Index: 2,     Num1: 5
+2024-03-25 22:48:41,126 - root - INFO - Index: 2,     Num2: 6
+2024-03-25 22:48:41,127 - root - INFO - Sum of 5 and 6: 11
+2024-03-25 22:48:41,129 - root - INFO - Record 3: add: 7, 8
+2024-03-25 22:48:41,130 - root - INFO - Index: 3,     Operation: add
+2024-03-25 22:48:41,131 - root - INFO - Index: 3,     Num1: 7
+2024-03-25 22:48:41,132 - root - INFO - Index: 3,     Num2: 8
+2024-03-25 22:48:41,132 - root - INFO - Sum of 7 and 8: 15
+2024-03-25 22:48:41,133 - root - INFO - Record 4: add: 7, 6
+2024-03-25 22:48:41,134 - root - INFO - Index: 4,     Operation: add
+2024-03-25 22:48:41,135 - root - INFO - Index: 4,     Num1: 7
+2024-03-25 22:48:41,136 - root - INFO - Index: 4,     Num2: 6
+2024-03-25 22:48:41,137 - root - INFO - Sum of 7 and 6: 13
+2024-03-25 22:48:41,138 - root - INFO - Record 5: divide: 6, 6
+2024-03-25 22:48:41,139 - root - INFO - Index: 5,     Operation: divide
+2024-03-25 22:48:41,140 - root - INFO - Index: 5,     Num1: 6
+2024-03-25 22:48:41,141 - root - INFO - Index: 5,     Num2: 6
+2024-03-25 22:48:41,142 - root - INFO - Quotient of 6 and 6: 1.0
+2024-03-25 22:48:41,143 - root - INFO - Record 6: divide: 6, 0
+2024-03-25 22:48:41,144 - root - INFO - Index: 6,     Operation: divide
+2024-03-25 22:48:41,144 - root - INFO - Index: 6,     Num1: 6
+2024-03-25 22:48:41,145 - root - INFO - Index: 6,     Num2: 0
+2024-03-25 22:48:41,146 - root - INFO - No history of operations
+2024-03-25 22:50:28,128 - root - INFO - Application exit.
+2024-03-25 22:50:28,129 - root - INFO - Application shutdown.
+2024-03-25 22:50:29,204 - root - INFO - Logging configured.
+2024-03-25 22:50:30,094 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-25 22:50:31,596 - root - INFO - the relative path  to save my file is ./data/operation_history.csv
+2024-03-25 22:50:31,597 - root - INFO - the absolute path  to save my file is /mnt/c/NJIT/pytest-github-actions/data/operation_history.csv
+2024-03-25 22:50:31,603 - root - INFO - Record 0: add: 3, 4
+2024-03-25 22:50:31,604 - root - INFO - Index: 0,     Operation: add
+2024-03-25 22:50:31,605 - root - INFO - Index: 0,     Num1: 3
+2024-03-25 22:50:31,606 - root - INFO - Index: 0,     Num2: 4
+2024-03-25 22:50:31,607 - root - INFO - Sum of 3 and 4: 7
+2024-03-25 22:50:31,608 - root - INFO - Record 1: add: 6, 7
+2024-03-25 22:50:31,610 - root - INFO - Index: 1,     Operation: add
+2024-03-25 22:50:31,611 - root - INFO - Index: 1,     Num1: 6
+2024-03-25 22:50:31,612 - root - INFO - Index: 1,     Num2: 7
+2024-03-25 22:50:31,613 - root - INFO - Sum of 6 and 7: 13
+2024-03-25 22:50:31,615 - root - INFO - Record 2: add: 5, 6
+2024-03-25 22:50:31,616 - root - INFO - Index: 2,     Operation: add
+2024-03-25 22:50:31,617 - root - INFO - Index: 2,     Num1: 5
+2024-03-25 22:50:31,618 - root - INFO - Index: 2,     Num2: 6
+2024-03-25 22:50:31,619 - root - INFO - Sum of 5 and 6: 11
+2024-03-25 22:50:31,620 - root - INFO - Record 3: add: 7, 8
+2024-03-25 22:50:31,621 - root - INFO - Index: 3,     Operation: add
+2024-03-25 22:50:31,622 - root - INFO - Index: 3,     Num1: 7
+2024-03-25 22:50:31,623 - root - INFO - Index: 3,     Num2: 8
+2024-03-25 22:50:31,624 - root - INFO - Sum of 7 and 8: 15
+2024-03-25 22:50:31,626 - root - INFO - Record 4: add: 7, 6
+2024-03-25 22:50:31,627 - root - INFO - Index: 4,     Operation: add
+2024-03-25 22:50:31,628 - root - INFO - Index: 4,     Num1: 7
+2024-03-25 22:50:31,629 - root - INFO - Index: 4,     Num2: 6
+2024-03-25 22:50:31,630 - root - INFO - Sum of 7 and 6: 13
+2024-03-25 22:50:31,631 - root - INFO - Record 5: divide: 6, 6
+2024-03-25 22:50:31,632 - root - INFO - Index: 5,     Operation: divide
+2024-03-25 22:50:31,633 - root - INFO - Index: 5,     Num1: 6
+2024-03-25 22:50:31,634 - root - INFO - Index: 5,     Num2: 6
+2024-03-25 22:50:31,635 - root - INFO - Quotient of 6 and 6: 1.0
+2024-03-25 22:50:31,636 - root - INFO - Record 6: divide: 6, 0
+2024-03-25 22:50:31,637 - root - INFO - Index: 6,     Operation: divide
+2024-03-25 22:50:31,638 - root - INFO - Index: 6,     Num1: 6
+2024-03-25 22:50:31,639 - root - INFO - Index: 6,     Num2: 0
+2024-03-25 22:50:31,640 - root - INFO - Cannot divide by 0
+2024-03-25 22:54:46,837 - root - INFO - Application exit.
+2024-03-25 22:54:46,838 - root - INFO - Application shutdown.
+2024-03-25 22:54:59,205 - root - INFO - Logging configured.
+2024-03-25 22:55:00,000 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-25 22:55:12,986 - root - INFO - Multiplicands 5 and 6 were mutiplied to a product of 30
+2024-03-25 22:55:26,166 - root - INFO - the relative path  to save my file is ./data/operation_history.csv
+2024-03-25 22:55:26,167 - root - INFO - the absolute path  to save my file is /mnt/c/NJIT/pytest-github-actions/data/operation_history.csv
+2024-03-25 22:55:26,173 - root - INFO - Record 0: add: 3.0, 4.0
+2024-03-25 22:55:26,174 - root - INFO - Index: 0,     Operation: add
+2024-03-25 22:55:26,175 - root - INFO - Index: 0,     Num1: 3.0
+2024-03-25 22:55:26,176 - root - INFO - Index: 0,     Num2: 4.0
+2024-03-25 22:55:26,177 - root - INFO - Sum of 3.0 and 4.0: 7.0
+2024-03-25 22:55:26,179 - root - INFO - Record 1: add: 6.0, 7.0
+2024-03-25 22:55:26,180 - root - INFO - Index: 1,     Operation: add
+2024-03-25 22:55:26,181 - root - INFO - Index: 1,     Num1: 6.0
+2024-03-25 22:55:26,182 - root - INFO - Index: 1,     Num2: 7.0
+2024-03-25 22:55:26,183 - root - INFO - Sum of 6.0 and 7.0: 13.0
+2024-03-25 22:55:26,184 - root - INFO - Record 2: add: 5.0, 6.0
+2024-03-25 22:55:26,185 - root - INFO - Index: 2,     Operation: add
+2024-03-25 22:55:26,186 - root - INFO - Index: 2,     Num1: 5.0
+2024-03-25 22:55:26,186 - root - INFO - Index: 2,     Num2: 6.0
+2024-03-25 22:55:26,187 - root - INFO - Sum of 5.0 and 6.0: 11.0
+2024-03-25 22:55:26,188 - root - INFO - Record 3: add: 7.0, 8.0
+2024-03-25 22:55:26,189 - root - INFO - Index: 3,     Operation: add
+2024-03-25 22:55:26,190 - root - INFO - Index: 3,     Num1: 7.0
+2024-03-25 22:55:26,191 - root - INFO - Index: 3,     Num2: 8.0
+2024-03-25 22:55:26,191 - root - INFO - Sum of 7.0 and 8.0: 15.0
+2024-03-25 22:55:26,192 - root - INFO - Record 4: add: 7.0, 6.0
+2024-03-25 22:55:26,193 - root - INFO - Index: 4,     Operation: add
+2024-03-25 22:55:26,194 - root - INFO - Index: 4,     Num1: 7.0
+2024-03-25 22:55:26,195 - root - INFO - Index: 4,     Num2: 6.0
+2024-03-25 22:55:26,196 - root - INFO - Sum of 7.0 and 6.0: 13.0
+2024-03-25 22:55:26,196 - root - INFO - Record 5: divide: 6.0, 6.0
+2024-03-25 22:55:26,197 - root - INFO - Index: 5,     Operation: divide
+2024-03-25 22:55:26,198 - root - INFO - Index: 5,     Num1: 6.0
+2024-03-25 22:55:26,199 - root - INFO - Index: 5,     Num2: 6.0
+2024-03-25 22:55:26,200 - root - INFO - Quotient of 6.0 and 6.0: 1.0
+2024-03-25 22:55:26,201 - root - INFO - Record 6: divide: 6.0, 0.0
+2024-03-25 22:55:26,202 - root - INFO - Index: 6,     Operation: divide
+2024-03-25 22:55:26,203 - root - INFO - Index: 6,     Num1: 6.0
+2024-03-25 22:55:26,204 - root - INFO - Index: 6,     Num2: 0.0
+2024-03-25 22:55:26,205 - root - INFO - Cannot divide by 0
+2024-03-25 22:55:26,206 - root - INFO - Record 7: multiply 5 6 : nan, nan
+2024-03-25 22:55:26,207 - root - INFO - Index: 7,     Operation: multiply 5 6 
+2024-03-25 22:55:26,207 - root - INFO - Index: 7,     Num1: nan
+2024-03-25 22:55:26,208 - root - INFO - Index: 7,     Num2: nan
+2024-03-25 22:56:44,745 - root - INFO - Application exit.
+2024-03-25 22:56:44,746 - root - INFO - Application shutdown.
+2024-03-25 22:56:45,945 - root - INFO - Logging configured.
+2024-03-25 22:56:46,728 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-25 22:56:54,312 - root - INFO - Multiplicands 5 and 6 were mutiplied to a product of 30
+2024-03-25 22:56:57,181 - root - INFO - the relative path  to save my file is ./data/operation_history.csv
+2024-03-25 22:56:57,182 - root - INFO - the absolute path  to save my file is /mnt/c/NJIT/pytest-github-actions/data/operation_history.csv
+2024-03-25 22:56:57,187 - root - INFO - Record 0: add: 3, 4
+2024-03-25 22:56:57,189 - root - INFO - Index: 0,     Operation: add
+2024-03-25 22:56:57,190 - root - INFO - Index: 0,     Num1: 3
+2024-03-25 22:56:57,191 - root - INFO - Index: 0,     Num2: 4
+2024-03-25 22:56:57,192 - root - INFO - Sum of 3 and 4: 7
+2024-03-25 22:56:57,193 - root - INFO - Record 1: add: 6, 7
+2024-03-25 22:56:57,194 - root - INFO - Index: 1,     Operation: add
+2024-03-25 22:56:57,195 - root - INFO - Index: 1,     Num1: 6
+2024-03-25 22:56:57,197 - root - INFO - Index: 1,     Num2: 7
+2024-03-25 22:56:57,198 - root - INFO - Sum of 6 and 7: 13
+2024-03-25 22:56:57,199 - root - INFO - Record 2: add: 5, 6
+2024-03-25 22:56:57,200 - root - INFO - Index: 2,     Operation: add
+2024-03-25 22:56:57,201 - root - INFO - Index: 2,     Num1: 5
+2024-03-25 22:56:57,202 - root - INFO - Index: 2,     Num2: 6
+2024-03-25 22:56:57,203 - root - INFO - Sum of 5 and 6: 11
+2024-03-25 22:56:57,204 - root - INFO - Record 3: add: 7, 8
+2024-03-25 22:56:57,205 - root - INFO - Index: 3,     Operation: add
+2024-03-25 22:56:57,206 - root - INFO - Index: 3,     Num1: 7
+2024-03-25 22:56:57,207 - root - INFO - Index: 3,     Num2: 8
+2024-03-25 22:56:57,208 - root - INFO - Sum of 7 and 8: 15
+2024-03-25 22:56:57,208 - root - INFO - Record 4: add: 7, 6
+2024-03-25 22:56:57,209 - root - INFO - Index: 4,     Operation: add
+2024-03-25 22:56:57,210 - root - INFO - Index: 4,     Num1: 7
+2024-03-25 22:56:57,211 - root - INFO - Index: 4,     Num2: 6
+2024-03-25 22:56:57,212 - root - INFO - Sum of 7 and 6: 13
+2024-03-25 22:56:57,213 - root - INFO - Record 5: divide: 6, 6
+2024-03-25 22:56:57,214 - root - INFO - Index: 5,     Operation: divide
+2024-03-25 22:56:57,215 - root - INFO - Index: 5,     Num1: 6
+2024-03-25 22:56:57,216 - root - INFO - Index: 5,     Num2: 6
+2024-03-25 22:56:57,217 - root - INFO - Quotient of 6 and 6: 1.0
+2024-03-25 22:56:57,218 - root - INFO - Record 6: divide: 6, 0
+2024-03-25 22:56:57,219 - root - INFO - Index: 6,     Operation: divide
+2024-03-25 22:56:57,220 - root - INFO - Index: 6,     Num1: 6
+2024-03-25 22:56:57,221 - root - INFO - Index: 6,     Num2: 0
+2024-03-25 22:56:57,222 - root - INFO - Cannot divide by 0
+2024-03-25 22:56:57,224 - root - INFO - Record 7: multiply: 5, 6
+2024-03-25 22:56:57,225 - root - INFO - Index: 7,     Operation: multiply
+2024-03-25 22:56:57,226 - root - INFO - Index: 7,     Num1: 5
+2024-03-25 22:56:57,228 - root - INFO - Index: 7,     Num2: 6
+2024-03-25 22:56:57,229 - root - INFO - Product of 5 and 6: 30
+2024-03-25 22:58:51,711 - root - INFO - List example: ['apple', 'banana', 'cherry']
+2024-03-25 22:58:51,711 - root - INFO - I pick an apple
+2024-03-25 22:58:51,712 - root - INFO - List after adding an item: ['apple', 'banana', 'cherry', 'date']
+2024-03-25 22:58:51,713 - root - INFO - Tuple example: (1, 2, 3, 4)
+2024-03-25 22:58:51,714 - root - INFO - Set example: {1, 2, 3, 4}
+2024-03-25 22:58:51,714 - root - INFO - whats different {1}
+2024-03-25 22:58:51,715 - root - INFO - Set after adding an item: {1, 2, 3, 4, 5}
+2024-03-25 22:58:51,716 - root - INFO - Dictionary example: {'CA': 'California', 'NJ': 'New Jersey', 'TX': 'Texas', 'FL': 'Florida', 'IL': 'Illinois'}
+2024-03-25 22:58:51,716 - root - INFO - Dictionary after adding a state: {'CA': 'California', 'NJ': 'New Jersey', 'TX': 'Texas', 'FL': 'Florida', 'IL': 'Illinois', 'NY': 'New York'}
+2024-03-25 22:58:51,717 - root - INFO - State Abbreviation: CA for: California
+2024-03-25 22:58:51,718 - root - INFO - State Abbreviation: NJ for: New Jersey
+2024-03-25 22:58:51,718 - root - INFO - State Abbreviation: TX for: Texas
+2024-03-25 22:58:51,719 - root - INFO - State Abbreviation: FL for: Florida
+2024-03-25 22:58:51,720 - root - INFO - State Abbreviation: IL for: Illinois
+2024-03-25 22:58:51,720 - root - INFO - State Abbreviation: NY for: New York
+2024-03-25 22:58:51,721 - root - INFO - State: CA
+2024-03-25 22:58:51,722 - root - INFO -     Capital: Sacramento
+2024-03-25 22:58:51,723 - root - INFO -     Population: 39538223
+2024-03-25 22:58:51,724 - root - INFO -     Great: No
+2024-03-25 22:58:51,725 - root - INFO - State: TX
+2024-03-25 22:58:51,726 - root - INFO -     Capital: Austin
+2024-03-25 22:58:51,727 - root - INFO -     Population: 29145505
+2024-03-25 22:58:51,728 - root - INFO -     Great: Yes
+2024-03-25 22:58:51,729 - root - INFO - State: NJ
+2024-03-25 22:58:51,730 - root - INFO -     Capital: Trenton
+2024-03-25 22:58:51,731 - root - INFO -     Population: 50
+2024-03-25 22:58:51,732 - root - INFO -     Great: Yes
+2024-03-25 22:58:51,732 - root - INFO -     Good hot dogs: yes
+2024-03-25 22:58:51,733 - root - INFO -     Where: Rutts hutt
+2024-03-25 23:07:09,210 - root - INFO - the relative path  to save my file is ./data/operation_history.csv
+2024-03-25 23:07:09,211 - root - INFO - the absolute path  to save my file is /mnt/c/NJIT/pytest-github-actions/data/operation_history.csv
+2024-03-25 23:07:09,215 - root - INFO - Record 0: add: 3, 4
+2024-03-25 23:07:09,216 - root - INFO - Index: 0,     Operation: add
+2024-03-25 23:07:09,217 - root - INFO - Index: 0,     Num1: 3
+2024-03-25 23:07:09,218 - root - INFO - Index: 0,     Num2: 4
+2024-03-25 23:07:09,219 - root - INFO - Sum of 3 and 4: 7
+2024-03-25 23:07:09,221 - root - INFO - Record 1: add: 6, 7
+2024-03-25 23:07:09,222 - root - INFO - Index: 1,     Operation: add
+2024-03-25 23:07:09,223 - root - INFO - Index: 1,     Num1: 6
+2024-03-25 23:07:09,224 - root - INFO - Index: 1,     Num2: 7
+2024-03-25 23:07:09,225 - root - INFO - Sum of 6 and 7: 13
+2024-03-25 23:07:09,226 - root - INFO - Record 2: add: 5, 6
+2024-03-25 23:07:09,227 - root - INFO - Index: 2,     Operation: add
+2024-03-25 23:07:09,228 - root - INFO - Index: 2,     Num1: 5
+2024-03-25 23:07:09,229 - root - INFO - Index: 2,     Num2: 6
+2024-03-25 23:07:09,231 - root - INFO - Sum of 5 and 6: 11
+2024-03-25 23:07:09,232 - root - INFO - Record 3: add: 7, 8
+2024-03-25 23:07:09,233 - root - INFO - Index: 3,     Operation: add
+2024-03-25 23:07:09,234 - root - INFO - Index: 3,     Num1: 7
+2024-03-25 23:07:09,234 - root - INFO - Index: 3,     Num2: 8
+2024-03-25 23:07:09,235 - root - INFO - Sum of 7 and 8: 15
+2024-03-25 23:07:09,237 - root - INFO - Record 4: add: 7, 6
+2024-03-25 23:07:09,238 - root - INFO - Index: 4,     Operation: add
+2024-03-25 23:07:09,239 - root - INFO - Index: 4,     Num1: 7
+2024-03-25 23:07:09,240 - root - INFO - Index: 4,     Num2: 6
+2024-03-25 23:07:09,240 - root - INFO - Sum of 7 and 6: 13
+2024-03-25 23:07:09,242 - root - INFO - Record 5: divide: 6, 6
+2024-03-25 23:07:09,243 - root - INFO - Index: 5,     Operation: divide
+2024-03-25 23:07:09,244 - root - INFO - Index: 5,     Num1: 6
+2024-03-25 23:07:09,245 - root - INFO - Index: 5,     Num2: 6
+2024-03-25 23:07:09,246 - root - INFO - Quotient of 6 and 6: 1.0
+2024-03-25 23:07:09,247 - root - INFO - Record 6: divide: 6, 0
+2024-03-25 23:07:09,248 - root - INFO - Index: 6,     Operation: divide
+2024-03-25 23:07:09,249 - root - INFO - Index: 6,     Num1: 6
+2024-03-25 23:07:09,251 - root - INFO - Index: 6,     Num2: 0
+2024-03-25 23:07:09,252 - root - INFO - Cannot divide by 0
+2024-03-25 23:07:09,254 - root - INFO - Record 7: multiply: 5, 6
+2024-03-25 23:07:09,255 - root - INFO - Index: 7,     Operation: multiply
+2024-03-25 23:07:09,256 - root - INFO - Index: 7,     Num1: 5
+2024-03-25 23:07:09,257 - root - INFO - Index: 7,     Num2: 6
+2024-03-25 23:07:09,258 - root - INFO - Product of 5 and 6: 30
+2024-03-25 23:07:48,903 - root - INFO - Application exit.
+2024-03-25 23:07:48,904 - root - INFO - Application shutdown.
+2024-03-25 23:17:34,111 - root - INFO - Logging configured.
+2024-03-25 23:17:35,124 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-25 23:19:19,501 - root - INFO - Application exit.
+2024-03-25 23:19:19,502 - root - INFO - Application shutdown.

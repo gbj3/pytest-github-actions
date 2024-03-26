@@ -3,5 +3,4 @@ venv
 .venv
 .pytest_cache
 .coverage
-logs
 __pycache__

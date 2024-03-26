@@ -24,7 +24,7 @@ def test_menu_command(capfd, monkeypatch):
     command.execute()
 
     out, _ = capfd.readouterr()
-    assert out.strip() == "Hello, World!"
+    assert out.strip() == "Greet, Add, Subtract, Multiply, Divide, Csv, Data, Exit"
 
 def test_add_command(capfd, monkeypatch):
     """Test the execution of the AddCommand."""
@@ -35,7 +35,7 @@ def test_add_command(capfd, monkeypatch):
     command.execute()
 
     out, _ = capfd.readouterr()
-    assert out.strip() == "Greet, Add, Subtract, Multiply, Divide, Csv, Data, Exit"
+    assert out.strip() == "12"
 
     
 def test_subtract_command(capfd, monkeypatch):

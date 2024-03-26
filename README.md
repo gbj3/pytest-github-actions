@@ -11,3 +11,4 @@
 <h1>Try/Except Exceptions (LBYL/EAFP)</h1>
 <p>Try/Except statements are found when using the history csv command. It tries to find the history, but will return an error if unable to return it and again when attempting to do the operation computation. <a href="./app/plugins/csv/__init__.py">Link to try/except exceptions</a></p><br>
 
+<h1><a href="https://youtu.be/Ft4Kw1BXRGI">Link to program demo</a><h1>
